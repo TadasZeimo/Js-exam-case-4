@@ -27,3 +27,19 @@
 	margin-top: 50px;
 	color: #333;
 }
+#output {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	gap: 10px;
+  }
+  
+  .property-card {
+	min-height: 300px;
+	width: 300px;
+	background-color: #64a2ad;
+  }
+  .property-p {
+	margin-top: 5px;
+	word-wrap: break-word;
+  }
